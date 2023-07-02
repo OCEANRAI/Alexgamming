@@ -64,7 +64,8 @@ body {
     display: flex;
     justify-content: center;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 14px;
+    text-align: center;
     font-family: "Trirong", serif;
     text-shadow: 3px 3px 3px rgb(128, 124, 124);
     padding-top: 150px;
